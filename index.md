@@ -98,13 +98,13 @@
         <h3>Meus Projetos</h3>
       </div>
       <div class="modalBox">
-        <a href="https://lhor-dev.github.io/piano/" target="_black">
+        <a href="https://lucas-andre.github.io/piano/" target="_black">
           <img src="piano.png" alt="">
         </a>
-        <a href="https://lhor-dev.github.io/calculadora/" target="_blank">
+        <a href="https://lucas-andre.github.io/calculadora/" target="_blank">
           <img src="calculadora.png" alt="">
         </a>
-        <a href="https://lhor-dev.github.io/gerador-de-cores/" target="_blank">
+        <a href="https://lucas-andre.github.io/gerador-de-cores/" target="_blank">
           <img src="gerador de cores.png" alt="">
         </a>
       </div>
