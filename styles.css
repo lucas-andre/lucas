@@ -293,3 +293,8 @@ About
     margin: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
+
+/* counter */
+.views{
+  text-align: center;
+}
