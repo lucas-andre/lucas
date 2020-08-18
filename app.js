@@ -18,4 +18,15 @@ about.addEventListener("click", function (e) {
   }
 });
 
-//modal
+// view counter
+const countEl = document.getElementById('count');
+
+updateVisitCount();
+
+function updateVisitCount() {
+	fetch('https://api.countapi.xyz/hit/lucas-andre.github.io/visits')
+	.then(res => res.json())
+	.then(res => {
+		countEl.innerHTML = res.value;
+	})
+}
