@@ -287,11 +287,13 @@ About
 }
 
 /* Modal of Images*/
-.modalBox{
-  display: grid;
-    grid-gap: 1rem;
-    margin: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+.modalBox {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin: 10px;
 }
 
 /* counter */
