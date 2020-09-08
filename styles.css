@@ -79,15 +79,15 @@ body {
 }
 
 body::-webkit-scrollbar{
-    width: 0.5rem;
+    width: 0.3rem;
 }
 
 body::-webkit-scrollbar-track{
-    background: #1e1e24;
+    background: hsl(210, 36%, 96%);
 }
 
 body::-webkit-scrollbar-thumb{
-    background: #6649b8;
+    background: hsl(209, 34%, 30%);
 }
 
 ul {
